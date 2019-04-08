@@ -1,0 +1,9 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "mn": "0.0.1",
+    "discord.js": "11.4.2",
+    "node.js": "0.0.0",
+    "fs": "0.0.1-security"
+  }
+}
